@@ -1,0 +1,8 @@
+# General Infrastructure Packages
+advent-of-code-data
+advent-of-code-data[nb]
+python-dotenv
+ipykernel
+# Problem-specific Packages
+numpy
+pandas
