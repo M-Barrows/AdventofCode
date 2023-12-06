@@ -4,7 +4,7 @@ My Solutions for the [Advent of Code](https://www.adventofcode.com) challenge pr
 ## Results
 |YEAR|⭐s|LANG|
 |-:|-:|:-|
-|[2023](./2023/README.md)| 4 |    (Python)|
+|[2023](./2023/README.md)| 6 |    (Python)|
 |[2022](./2022/README.md)| 22|    (Python)|
 |[2021](./2021/README.md)| 5 |    (Python)|
 |[2020](./2020/README.md)| 10|    (R) |
