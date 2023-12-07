@@ -6,3 +6,4 @@ ipykernel
 # Problem-specific Packages
 numpy
 pandas
+tqdm
