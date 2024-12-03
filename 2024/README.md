@@ -17,7 +17,7 @@ Once this is complete, you should be able to run any of the scripts under this 2
 |-|-|-|
 |Day 1|⭐|⭐|
 |Day 2|⭐|⭐|
-|Day 3|⭕|⭕|
+|Day 3|⭐|⭐|
 |Day 4|⭕|⭕|
 |Day 5|⭕|⭕|
 |Day 6|⭕|⭕|
